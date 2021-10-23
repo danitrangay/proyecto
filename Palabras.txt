@@ -1,0 +1,6 @@
+new si condicio
+while entonces condicion
+cmddddd cmd comando
+1d cmd sistema
+if si condicional
+delete borrar borrar
